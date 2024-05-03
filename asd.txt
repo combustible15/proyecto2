@@ -1,1 +1,3 @@
 hola estoy recordando GIT
+sigo escribiendo una linea mas
+y otra mas 
